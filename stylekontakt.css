@@ -1,0 +1,35 @@
+main{
+    padding: 15px;
+    color: white;
+    margin-top: 200px;
+    margin-bottom: 200px;
+}
+body{
+    margin: 0;
+    background-color: rgb(127, 133, 114);
+
+}
+.kontakti{
+    font-size: 16px;
+    background-color: #a87544;
+}
+.email{
+    text-align: center;
+    width: 500px;
+    margin: 5px auto;
+}
+a:link, a:visited {
+    background-color: #583e25;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 50px;
+  }
+  
+  a:hover, a:active {
+    background-color: #695542;
+  }
+p{
+    color: whitesmoke;
+}
